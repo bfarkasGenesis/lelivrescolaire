@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestTechnique</string>
+    <string name="title_activity_book">BookActivity</string>
+    <string name="title_activity_page">PageActivity</string>
 </resources>
